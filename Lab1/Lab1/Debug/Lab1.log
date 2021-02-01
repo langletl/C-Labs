@@ -1,0 +1,9 @@
+﻿  Calculator2.cpp
+C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Lab1\Calculator2.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Lab1\Calculator2.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Lab1\Calculator2.cpp(57,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Lab1\Calculator2.cpp(5,13): warning C4101: 'second': unreferenced local variable
+C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Lab1\Calculator2.cpp(113,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\Nicolas\Documents\EFREI\Cours\M1\Cours\Advanced C++\Lab1\Lab1\Debug\Lab1.exe
